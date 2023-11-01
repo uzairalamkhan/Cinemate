@@ -1,7 +1,7 @@
-import styles from "../index.css";
-import {Link, useFetcher} from "react-router-dom"
+// import styles from "../index.css";
+// import {Link, useFetcher} from "react-router-dom"
 import {Card} from "../components/Card"
-import { useEffect, useState } from "react";
+import { useEffect} from "react";
 import useFetch from "../hooks/UseFetch";
 
 export const MovieList = ({api,title}) => {

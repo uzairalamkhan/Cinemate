@@ -1,6 +1,6 @@
 import React from 'react'
 import {Card} from "../components/Card"
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import useFetch from "../hooks/UseFetch";
 import { useSearchParams } from 'react-router-dom';
 
