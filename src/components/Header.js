@@ -34,7 +34,7 @@ const handleSubmit=(event)=>{
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
   <Link to='/' className="flex items-center">
       <img src="https://flowbite.com/docs/images/logo.svg" className="h-8 mr-3" alt="Flowbite Logo" />
-      <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
+      <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">CineMate</span>
   </Link>
 
   <div id='mobile-nav' className="flex md:order-2">
